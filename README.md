@@ -19,3 +19,8 @@ Under developing and testing.
 [Jean.Jiang](https://github.com/JiangXuanYi)
 
 [Bob.Sun](https://github.com/SpongeBobSun)
+
+
+
+###2015-08-16
+### 书写需要的逻辑，将在下周进行功能性完善。
