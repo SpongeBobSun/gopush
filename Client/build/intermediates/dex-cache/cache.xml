@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/pre-dexed/debug/classes-3b1fde14e8a57e2d9c92c64074825482294d2899.jar" />
+    </item>
+    <item
+        jar="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/pre-dexed/debug/classes-a8b3c663932fcff522b2a4bd3938389a004aa981.jar" />
+    </item>
+    <item
+        jar="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d2f54fcb22448e89ba35bfc68a34fda9dc02f588.jar" />
+    </item>
+    <item
+        jar="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/exploded-aar/NoPush/nopush/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d52588ab940a01b0f6d97e2d5398627c86e32a01">
+        <dex dex="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/pre-dexed/debug/classes-06993419f10ece9208cc54bbaa05de264d71cc05.jar" />
+    </item>
+    <item
+        jar="/Developer/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/bob.sun/AndroidStudioProjects/NoPush/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-da671d0f474f9de7486d079f0824c51126d497fa.jar" />
+    </item>
+
+</items>
