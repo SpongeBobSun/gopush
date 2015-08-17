@@ -15,6 +15,7 @@ Under developing and testing.
 ## Usage
 ## Server Interface
 tcp 连接
+## Client Interface
 ## Design (How does it works?)
 ## Credits
 [Jean.Jiang](https://github.com/JiangXuanYi)
