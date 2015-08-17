@@ -14,7 +14,12 @@ Under developing and testing.
 
 ## Usage
 ## Server Interface
-tcp 连接
+###2015-08-17:
+1、tcp connect is success from server to client.
+
+2、create a buffer([]byte,50) to receive the tcp infomation
+
+3、the Author of the Client is too lazy
 ## Client Interface
 ## Design (How does it works?)
 ## Credits
