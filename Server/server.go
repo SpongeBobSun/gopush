@@ -33,7 +33,7 @@ func CheckError(err error) {
 	}
 }
 func handleConnection(conn net.Conn) {
-	buffer := make([]byte, 50)
+	buffer := make([]byte, 1024)
 	for {
 		//		 n, err := conn.Read(buffer)
 		l, err := conn.Read(buffer)
