@@ -22,6 +22,9 @@ func main() {
 		}
 		log.Println(conn.RemoteAddr().String(), "connect to client success by tcp ")
 		go handleConnection(conn)
+		//from server to clients
+		//		ServerInfoPush(conn.RemoteAddr().String())//
+
 	}
 
 	fmt.Println("Hello World!")

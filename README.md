@@ -17,11 +17,19 @@ Under developing and testing.
 ## Client Interface
 ## Design (How does it works?)
 ###2015-08-17:
-1、tcp connect is success from server to client.
+By [Jean.Jiang](https://github.com/JiangXuanYi)
+1、Tcp connect is success from server to client.
 
-2、create a buffer([]byte,50) to receive the tcp information
+2、Create a buffer([]byte,50) to receive the tcp information
 
-3、the author of the Client is too LAAAAAAAZY
+3、The author of the Client is too LAAAAAAAZY
+###2015-08-18:
+By [Jean.Jiang](https://github.com/JiangXuanYi)
+1、Add a serverclient to push the information(json),from server to clients
+
+2、Now I fall in some question of the informationpush,After I will kill them FAST.
+
+3、A Wonderful Day
 ## Credits
 [Jean.Jiang](https://github.com/JiangXuanYi)
 
