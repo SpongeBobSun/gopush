@@ -18,6 +18,7 @@ Under developing and testing.
 ## Design (How does it works?)
 ###2015-08-17:
 By [Jean.Jiang](https://github.com/JiangXuanYi)
+
 1,Tcp connect is success from server to client.
 
 2,Create a buffer([]byte,50) to receive the tcp information
@@ -25,6 +26,7 @@ By [Jean.Jiang](https://github.com/JiangXuanYi)
 3,The author of the Client is too LAAAAAAAZY
 ###2015-08-18:
 By [Jean.Jiang](https://github.com/JiangXuanYi)
+
 1,Add a serverclient to push the information(json),from server to clients
 
 2,Now I fall in some question of the informationpush,After I will kill them FAST.
@@ -32,6 +34,7 @@ By [Jean.Jiang](https://github.com/JiangXuanYi)
 3,A Wonderful Day
 ###2015-08-19:
 By [Jean.Jiang](https://github.com/JiangXuanYi)
+
 1,First,I kill the question of informationpush
 
 2,Add a loopingCall to send the informationpush(json) to the clients
